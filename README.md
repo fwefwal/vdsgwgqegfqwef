@@ -16,8 +16,8 @@
 ### Молекулы
 
 - [x] `Field` (варианты с лейблом и опциональной кнопкой внутри) (1 балл)
-- [ ] `Card` (по 1 баллу за варианты `Detail Card` и `Category Card`)
-- [ ] `ProductCard` (3 балла)
+- [x] `Card` (по 1 баллу за варианты `Detail Card` и `Category Card`)
+- [x] `ProductCard` (3 балла)
 - [x] `Pagination`
 - [ ] `PriceFilter` (4 балла)
 
